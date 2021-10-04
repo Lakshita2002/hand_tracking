@@ -7,5 +7,7 @@ packages required: <br>
 - opencv <br>
 - mediapipe <br>
 
+![](/images/hand_landmarks.png)
+
 References <br>
 https://google.github.io/mediapipe/solutions/hands.html
