@@ -9,5 +9,11 @@ packages required: <br>
 
 ![](/images/hand_landmarks.png)
 
+### realtime results
+#### landmark points
+![](/images/ht1.png) ![](/images/ht2.png) <br>
+#### with connecting lines
+![](/images/ht3.png) ![](/images/ht4.png)
+
 References <br>
 https://google.github.io/mediapipe/solutions/hands.html
